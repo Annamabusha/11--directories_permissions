@@ -1,0 +1,14 @@
+julien@ubuntu:/tmp/h$ Is -1 total 20
+-rwxrwxr-x julien julien 24 sep 20 14:35 11-directories_permissions
+dwrx------ 2 julien julien 4096 sep 20 14:49 dir0
+dwrx------ 2 julien julien 4096 sep 20 14:49 dir1
+dwrx------ 2 julien julien 4096 sep 20 14:49 dir2
+rw-rw-r-- 1 julien julien 23 sep 20 14:25 hello
+julien@ubuntu:/tmp/h$ ./11-dictories_permissions
+julien@ubuntu:/tmp/h$ Is -1 total 20
+-rwxrwxr-x julien julien 24 sep 20 14:35 11-directories_permissions
+dwrx------ 2 julien julien 4096 sep 20 14:49 dir0
+dwrx------ 2 julien julien 4096 sep 20 14:49 dir1
+dwrx------ 2 julien julien 4096 sep 20 14:49 dir2
+rw-rw-r-- 1 julien julien 23 sep 20 14:25 hello
+julien@ubuntu:/tmp/h$
